@@ -12,3 +12,5 @@ describe("local storage", () => {
       .should("eq", myEmail);
   });
 });
+
+console.log("hallo");
